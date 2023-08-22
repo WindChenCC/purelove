@@ -6,6 +6,6 @@
 
 ## 原帖内容
 
-<div align="center"><img src="img1.png" style="zoom: 100%;"  alt=""/></div>
-<div align="center"><img src="img2.png" style="zoom: 100%;"  alt=""/></div>
+<div align="center"><img src="img1.jpg" style="zoom: 100%;"  alt=""/></div>
+<div align="center"><img src="img2.jpg" style="zoom: 100%;"  alt=""/></div>
 
