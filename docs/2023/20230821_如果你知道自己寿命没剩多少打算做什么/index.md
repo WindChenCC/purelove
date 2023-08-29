@@ -9,3 +9,6 @@
 <div align="center"><img src="img1.jpg" style="zoom: 100%;"  alt=""/></div>
 <div align="center"><img src="img2.jpg" style="zoom: 100%;"  alt=""/></div>
 
+## P.S.
+
+祝 xd 早日康复
